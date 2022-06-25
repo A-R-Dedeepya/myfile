@@ -6,3 +6,6 @@ Brinjal
 Drumstick
 Potato
 Cabbage
+
+Broccoli
+Spinach
